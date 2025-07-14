@@ -5,8 +5,6 @@ This repository is designed to help you quickly understand the fundamentals of e
 
 ## 📘 Languages Covered
 - **Python** – From zero to error-free basics
-- **JavaScript** – Core syntax and browser usage
-- **Java** – Object-Oriented Programming (OOP) and syntax fundamentals
 - **C** – Low-level logic and compilation
 - More coming soon...
 
